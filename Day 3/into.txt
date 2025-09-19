@@ -1,0 +1,6 @@
+A function is a block of code that runs when it is called. It helps in reusability and better organization of code.
+
+Syntax:
+def function_name(parameters):
+    # code block
+    return result
