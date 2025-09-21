@@ -1,3 +1,4 @@
+fruits = ["apple", "banana", "cherry", "mango"]
 fruits[1] = "blueberry"   # Change element
 fruits.append("orange")   # Add at end
 fruits.insert(2, "kiwi")  # Insert at position
