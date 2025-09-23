@@ -6,3 +6,4 @@ Day 2 - Variables & Data Types,Input & Output and Operators
 Day 3 - Functions
 Day 4 - Conditional Statements
 Day 5 - Lists
+Day 6 - Tuples in Python
