@@ -7,3 +7,4 @@ Day 3 - Functions in Python
 Day 4 - Conditional Statements
 Day 5 - Lists in Python
 Day 6 - Tuples in Python
+Day 7 – Dictionaries in Python
